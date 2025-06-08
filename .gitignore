@@ -1,0 +1,18 @@
+# Arquivos e pastas do sistema
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Arquivos ocultos comuns
+.bash_history
+.bash_logout
+.bashrc
+.gitconfig
+.lesshst
+.motd_shown
+.profile
+.sudo_as_admin_successful
+
+# Caches
+.cache/
