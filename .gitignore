@@ -3,7 +3,7 @@
 *.tmp
 *.swp
 *.swo
-
+*.server_logs.txt
 # Arquivos ocultos comuns
 .bash_history
 .bash_logout
